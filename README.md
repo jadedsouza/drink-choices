@@ -8,9 +8,10 @@ To run this on your local, clone the repository and within the project on your t
 ```bash
 # to install dependencies
 npm install
-
+```
 and,
 
 ```bash
 # to run on your local server
 npm start
+```
