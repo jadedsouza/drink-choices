@@ -1,0 +1,82 @@
+[
+	{
+		"type": "alcoholic",
+		"mood": "happy",
+		"drink": "Cuba Libre",
+		"author": "The Spruce Eats",
+		"link": "https://www.thespruceeats.com/rum-and-coke-recipe-760560",
+		"image": "https://www.196flavors.com/wp-content/uploads/2018/09/cuba-libre-1-FP.jpg"
+	},
+	{
+		"type": "alcoholic",
+		"mood": "sad",
+		"drink": "The Whiskey Sour",
+		"author": "The Spruce Eats",
+		"link": "https://www.thespruceeats.com/whiskey-sour-recipe-761273",
+		"image": "https://253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Whiskey_Sour_GettyImages-1175583212_1920x1280.jpg"
+	},
+	{
+		"type": "alcoholic",
+		"mood": "excited",
+		"drink": "Blue Margarita",
+		"author": "The Spruce Eats",
+		"link": "https://www.thespruceeats.com/blue-margarita-recipe-760849",
+		"image": "https://www.homemadefoodjunkie.com/wp-content/uploads/2020/06/Blue-Margarita.jpg"
+	},
+	{
+		"type": "alcoholic",
+		"mood": "tired",
+		"drink": "Vodka Red Bull",
+		"author": "Liquor.com",
+		"link": "https://www.liquor.com/recipes/vodka-red-bull/",
+		"image": "https://www.thespruceeats.com/thmb/AEgbs_BpX-AUtTbJXPjh8w5U1r0=/3822x2867/smart/filters:no_upscale()/vodka-red-bull-recipe-761208-6-5b3f95e746e0fb00371b22f1.jpg"
+	},
+	{
+		"type": "alcoholic",
+		"mood": "angry",
+		"drink": "Uh oh you should not be drinking alcohol! Please pick another mood or drink type",
+		"author": "No recipe - have some water",
+		"link": "NA",
+		"image": "https://thumbs.dreamstime.com/b/nope-text-buffered-illustration-white-background-107542624.jpg"
+	},
+	{
+		"type": "nonAlcoholic",
+		"mood": "happy",
+		"drink": "Low-Calorie Blueberry Smoothie",
+		"author": "The Spruce Eats",
+		"link": "https://www.thespruceeats.com/blueberry-smoothie-recipe-2238438",
+		"image": "https://www.blueberrycouncil.org/wp-content/uploads/2019/04/2-Balanced-Blueberry-Breakfast-Smoothie-751x971.jpg"
+	},
+	{
+		"type": "nonAlcoholic",
+		"mood": "sad",
+		"drink": "Chocolate Milk",
+		"author": "The Spruce Eats",
+		"link": "https://www.thespruceeats.com/chocolate-milk-recipe-2355494",
+		"image": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/chocolate-milk-1296x728-feature.jpg"
+	},
+	{
+		"type": "nonAlcoholic",
+		"mood": "excited",
+		"drink": "Fresh Watermelon Lemonade",
+		"author": "The Spruce Eats",
+		"link": "https://www.thespruceeats.com/fresh-watermelon-lemonade-5071240",
+		"image": "https://recipe-graphics.grocerywebsite.com/0_GraphicsRecipes/8583_4k.jpg"
+	},
+	{
+		"type": "nonAlcoholic",
+		"mood": "tired",
+		"drink": "Chocolate Coffee Protein Shake",
+		"author": "The Spruce Eats",
+		"link": "https://www.thespruceeats.com/chocolate-coffee-protein-shake-4031922",
+		"image": "https://images.eatthismuch.com/site_media/img/927338_tabitharwheeler_1987479b-93e4-4227-a598-bf34dcf1867f.jpg"
+	},
+	{
+		"type": "nonAlcoholic",
+		"mood": "angry",
+		"drink": "Earl Grey Tea",
+		"author": "The Spruce Eats",
+		"link": "https://www.31daily.com/how-to-brew-earl-grey-tea/",
+		"image": "https://images.squarespace-cdn.com/content/v1/55bfb182e4b0d40fc717da51/1602525405828-8T72GWM741CV7S8Q1DHT/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/B+-+Earl+Grey+Lavender+%28cup%29.JPG?format=1000w"
+	}
+]
